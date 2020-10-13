@@ -1,0 +1,20 @@
+.shop-header {
+    text-align: center;
+}
+.shop-header img {
+    height: 80px;
+    margin: 20px;
+}
+nav.shop-menu {
+    background-color: black;
+    line-height: 40px;
+}
+nav.shop-menu a {
+    color: white;
+    padding: 9px 20px;
+    
+}
+nav.shop-menu a:hover{
+    background-color: gray;
+    text-decoration: none;
+}
